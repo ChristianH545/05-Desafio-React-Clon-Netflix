@@ -16,7 +16,7 @@ Algunas de las tecnologías utilizadas en la construcción del proyecto:
 
  - Bootstrap: 5.1
  - Framer-motion: 6.3
- - React: 18.1.0
+ - React: 18.1
  - React-bootstrap: 2.3
  - React-dom: 18.1
  - React-router-dom: 6.3
@@ -24,10 +24,6 @@ Algunas de las tecnologías utilizadas en la construcción del proyecto:
  - React-youtube: 9.0
  - Web-vitals: 2.1
 
-### Deployment
+## Videos demostrativos
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
