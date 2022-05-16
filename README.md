@@ -2,7 +2,8 @@
 
  ### Especificación del servicio: La API usada [themoviedb](https://developers.themoviedb.org/3/getting-started/introduction).
  ### Casos de uso:
- - Al usuario ingresar se le desplegará un contenido relacionado con series y películas. 
+ - El usuario al ingresar se le desplegará un contenido relacionado con series y películas. 
+ - El usuario podrá navegar hacia el detalle de dicha selección. disfrutar del tráiler, valoración y descripción del mismo contenido seleccionado.
 
 ## Available Scripts
 
