@@ -1,6 +1,6 @@
 # Clon Netflix app Document
 
- ## Especificación del servicio: [themoviedb](https://developers.themoviedb.org/3/getting-started/introduction).
+ ## `Especificación del servicio:` [themoviedb](https://developers.themoviedb.org/3/getting-started/introduction).
 
 ## Available Scripts
 
