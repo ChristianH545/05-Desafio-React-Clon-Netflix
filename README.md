@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Clon Netflix app Document
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ ## Especificación del servicio: [themoviedb](https://developers.themoviedb.org/3/getting-started/introduction).
 
 ## Available Scripts
 
