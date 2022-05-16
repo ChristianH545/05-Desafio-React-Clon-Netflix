@@ -1,7 +1,8 @@
 # Clon Netflix app Document
 
  ### Especificación del servicio: La API usada [themoviedb](https://developers.themoviedb.org/3/getting-started/introduction).
-### Casos de uso:
+ ### Casos de uso:
+ **- Al usuario ingresar se le desplegará un contenido relacionado con series y películas. **
 
 ## Available Scripts
 
