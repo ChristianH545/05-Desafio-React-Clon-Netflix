@@ -8,8 +8,7 @@
 ## Implementación
 
 Se ha desarrollado una aplicación que permite al usuario realizar las siguientes acciones:
-- podra visualiza una lista de peliculas. Filtradas para mayor facilidad del usuario se realizo un top10 (podria ser modificada) mediante el consumo de la API  [themoviedb](https://developers.themoviedb.org/3/movies/get-popular-movies). GET /movie/popular. 
-- consta de 3 secciones Popular Movies, TopRated, Upcoming las dos ultimas seras visualizadas por medio de un Carosel Horizontal donde el usuario podra ir a la izq (mediante algunas funciones se desavilito el derecho ) para seleccionar el contenido deseado. 
+- podra visualiza una lista de peliculas. Filtradas para mayor facilidad del usuario se realizo un top10 (podria ser modificada) mediante el consumo de la API  [themoviedb](https://developers.themoviedb.org/3/movies/get-popular-movies). GET /movie/popular.  
 - consta de 3 secciones Popular Movies, Top Rated, Upcoming las dos últimas serán visualizadas por medio de un Carrusel Horizontal donde el usuario podrá ir a la izq (mediante algunas funciones se desabilito el derecho ) para seleccionar el contenido deseado dar un click y disfrutar de un tráiler, valoración y descripción del mismo.
 
 ### `npm start`
