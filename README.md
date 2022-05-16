@@ -3,13 +3,13 @@
  ### Especificación del servicio: La API usada [themoviedb](https://developers.themoviedb.org/3/getting-started/introduction).
  ### Casos de uso:
  - El usuario al ingresar se le desplegará un contenido relacionado con series y películas. 
- - El usuario podrá navegar hacia el detalle de dicha selección. disfrutar del tráiler, valoración y descripción del mismo contenido seleccionado.
+ - El usuario podrá navegar hacia el detalle de dicha selección. Disfrutar del tráiler, valoración y descripción del mismo contenido seleccionado.
 
 ## Implementación
 
 Se ha desarrollado una aplicación que permite al usuario realizar las siguientes acciones:
-- podra visualiza una lista de peliculas. Filtradas para mayor facilidad del usuario se realizo un top10 (podria ser modificada) mediante el consumo de la API  [themoviedb](https://developers.themoviedb.org/3/movies/get-popular-movies). GET /movie/popular.  
-- consta de 3 secciones Popular Movies, Top Rated, Upcoming las dos últimas serán visualizadas por medio de un Carrusel Horizontal donde el usuario podrá ir a la izq (mediante algunas funciones se desabilito el derecho ) para seleccionar el contenido deseado dar un click y disfrutar de un tráiler, valoración y descripción del mismo.
+- Podra visualizar una lista de películas filtradas, para mayor facilidad del usuario se realizo un top10 (podría ser modificada) mediante el consumo de la API  [themoviedb](https://developers.themoviedb.org/3/movies/get-popular-movies). GET /movie/popular.  
+- Consta de 3 secciones: Popular Movies, Top Rated, Upcoming las dos últimas serán visualizadas por medio de un Carrusel Horizontal donde el usuario podrá ir a la izquierda (mediante algunas funciones se deshabilito el derecho ) para seleccionar el contenido deseado dar un click y disfrutar de un tráiler, valoración y descripción del mismo.
 
 ## Tecnologías y herramientas
 Algunas de las tecnologías utilizadas en la construcción del proyecto:
